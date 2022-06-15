@@ -1,0 +1,15 @@
+/* Small Reset */
+*::before, *::after, * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* nav */
+
+nav ul {
+    list-style: none;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
